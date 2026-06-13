@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/parse-pdf.js": {
+      "maxDuration": 30
+    }
+  }
+}
