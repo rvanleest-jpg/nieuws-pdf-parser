@@ -1,0 +1,6 @@
+{
+  "name": "nieuws-pdf-parser",
+  "version": "1.0.0",
+  "description": "Vercel Worker: haalt Gmail PDF op en parset via Anthropic",
+  "private": true
+}
